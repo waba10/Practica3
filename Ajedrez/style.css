@@ -1,0 +1,49 @@
+body{
+    background: rgb(224, 224, 231);
+    
+}
+
+table{
+    margin:auto;
+    border-spacing: 0px;
+    
+}
+td{
+    
+    padding: 10px;
+    width: 55px;
+    height: 55px;
+    min-width: 70%;
+}
+
+p{
+    text-align: center;
+    visibility: hidden;
+}
+
+.black{
+    background: black;
+    color: white;
+}
+
+ td:hover{
+    background: rgba(255, 0, 0, 0.5);
+    
+    
+}
+td:hover p{
+    visibility: visible;
+}
+
+.foot{
+    padding: 10px;
+    width: 230px;
+    height: 55px;
+    min-width: 70%;
+    background-color: rgb(224, 224, 231);
+}
+
+.foot:hover{
+    background: rgb(224, 224, 231);
+    
+}
