@@ -1,0 +1,137 @@
+.Tamaños input{
+    color: gray;
+    background-color: #f4f3f2;
+    border: none;
+    border-radius: 8px;
+    margin: 0 0.5%;
+    text-transform: uppercase;
+}
+
+input[value=normal]{
+    font-size: 1em;
+    padding: 12px;
+    
+}
+
+input[value=grande]{
+    font-size: 2em;
+    padding: 15px;
+}
+
+input[value=pequeño]{
+    padding: 6px;
+}
+
+.Colores input{
+    color: white;
+    border: none;
+    margin: 0 0.5%;
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 1em;
+    padding: 12px;
+}
+
+input[value=esmeralda]{
+    background-color: #57d68d;
+}
+
+input[value=cielo]{
+    background-color: #5cace2;
+}
+
+input[value=amatista]{
+    background-color: #ae7ac4;
+}
+
+input[value=asfalto]{
+    background-color: #5c6d7e;
+}
+
+input[value=topazio]{
+    background-color: #ea974e;
+}
+
+input[value=rubí]{
+    background-color: #eb6f62;
+}
+
+.Bordeados input{
+    background: white;
+    margin: 0 0.5%;
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 1em;
+    padding: 12px;
+}
+
+input[value=Simple]{
+    color: gray;
+    border: 0.5px solid gray;
+}
+
+input[value=Esmeralda]{
+    color: #57d68d;
+    border: 0.5px solid #57d68d;
+}
+
+input[value=Cielo]{
+    border:0.5 px solid #5cace2;
+    color: #5cace2;
+}
+
+input[value=Amatista]{
+    border: 0.5px solid #ae7ac4;
+    color: #ae7ac4;
+}
+
+input[value=Asfalto]{
+    border:0.5 px solid #5c6d7e;
+    color: #5c6d7e;
+}
+
+input[value=Topazio]{
+    border: 0.5px solid #ea974e;
+    color: #ea974e;
+}
+
+input[value=Rubí]{
+    border: 0.5px solid #eb6f62;
+    color: #eb6f62;
+}
+
+.Combinaciones input{
+    margin: 0 0.5%;
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 1em;
+    padding: 12px;
+}
+
+#Lasfalto{
+    color: white;
+    background-color: #5c6d7e;
+    border:0.5px solid #5c6d7e;
+    font-size: 1.5em; 
+}
+
+#Bcielo{
+    color: #5cace2;
+    background-color: white;
+    border: 0.5px solid #5cace2;
+}
+
+#Pesmeralda{
+    padding: 6px;
+    border: 0.5px solid #57d68d;
+    background-color: #57d68d;
+    font-size: 0.8em;
+    color: white;
+}
+
+#Grubi{
+    border: 0.5px solid #eb6f62;
+    color: #eb6f62;
+    background-color: white;
+    font-size: 1.5em;
+}
